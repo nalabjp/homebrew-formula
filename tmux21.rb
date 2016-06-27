@@ -1,4 +1,4 @@
-class Tmux < Formula
+class Tmux21 < Formula
   desc "Terminal multiplexer"
   homepage "https://tmux.github.io/"
 
